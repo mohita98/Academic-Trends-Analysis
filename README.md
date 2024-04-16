@@ -20,7 +20,7 @@
   - 📊 Data Modeling: Construct comprehensive models to facilitate in-depth analysis.
   - 🔍 Statistical Analysis: Apply statistical methodologies for meaningful conclusions.
 
-## Explore My Work**:
+## Explore My Work:
   - 🌐 Access my Power BI report showcasing various use cases and insights derived from the analysis.
   - 📸 Dive into interactive visualizations and comprehensive analysis for a deeper understanding of the educational landscape.
 
