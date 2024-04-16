@@ -1,26 +1,26 @@
 # Project Description: Academic Trend Analysis Analysis with Power BI
 
-- ##Overview:
+## Overview:
   - 📊 This project explores educational technology (EdTech) through data analysis to enhance institutional efficiency and optimize learning experiences.
   - 📚 Examining student attendance trends across schools, grades, and years provides vital insights for informed decision-making.
 
-- ##Project Description:
+## Project Description:
   - 🖥️ Utilizing Power BI, I analyzed institutional efficiency by dissecting student attendance data within schools across different years and grades.
   - 🔄 Multiple use cases, including personalized learning and athlete analysis within schools, contribute to a holistic understanding of educational dynamics.
 
-- ##Applied Skills:
+## Applied Skills:
   - 📈 Data Analysis: Uncover patterns and trends within educational datasets.
   - 🎨 Visualization: Create visually compelling reports to communicate complex insights effectively.
   - 🧠 Problem-Solving: Address institutional challenges through data-driven solutions.
   - 📝 Interpretation: Extract actionable insights to drive improvements in educational practices and student outcomes.
 
-- ##Tools & Techniques Used:
+## Tools & Techniques Used:
   - 🛠️ Power BI: Harness its robust capabilities for data visualization and reporting.
   - 🏢 Microsoft Fabric Lakehouse: Reliable and scalable data source for analysis.
   - 📊 Data Modeling: Construct comprehensive models to facilitate in-depth analysis.
   - 🔍 Statistical Analysis: Apply statistical methodologies for meaningful conclusions.
 
-- ##Explore My Work**:
+## Explore My Work**:
   - 🌐 Access my Power BI report showcasing various use cases and insights derived from the analysis.
   - 📸 Dive into interactive visualizations and comprehensive analysis for a deeper understanding of the educational landscape.
 
