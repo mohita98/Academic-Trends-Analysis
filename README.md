@@ -1,7 +1,7 @@
 # Project Description: Academic Trend Analysis Analysis with Power BI
 
 ## Overview:
-  - 📊 This project explores educational technology (EdTech) through data analysis to enhance institutional efficiency and optimize learning experiences.
+  - 📊 This project explores Academic Trend Analysis through data analysis to enhance institutional efficiency and optimize learning experiences.
   - 📚 Examining student attendance trends across schools, grades, and years provides vital insights for informed decision-making.
 
 ## Project Description:
