@@ -1,4 +1,4 @@
-# Project Description: Academic Trend Analysis Analysis with Power BI
+# Project Description: Academic Trend Analysis with Power BI
 
 ## Overview:
   - 📊 This project explores Academic Trend Analysis through data analysis to enhance institutional efficiency and optimize learning experiences.
